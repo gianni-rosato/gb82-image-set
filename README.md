@@ -14,7 +14,7 @@ This dataset aims to be:
 - **Flexible**: It should be easy to produce a subset of this dataset that allows one to focus on a specific class of artifacting
 - **Productive**: A smaller dataset means faster iteration and subsequent improvement
 
-It leans toward photographic images in order to present realistic challenges that an encoder might encounter in production.
+It leans toward photographic images in order to present realistic challenges that an encoder might encounter in a production use case.
 
 ## Details
 
@@ -31,7 +31,7 @@ The images in the dataset can be categorized as:
 - 8 closeups of inanimate objects or scenes
 - 4 low-light shots
 - 3 realistically rendered graphics shots
-- 1 nonphotographic imace
+- 1 non-photographic image
 
 ## License
 
